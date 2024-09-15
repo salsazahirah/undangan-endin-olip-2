@@ -4,3 +4,4 @@ tailwind.config.js
 src/
 node_modules/
 *.exe
+dist/

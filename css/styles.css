@@ -457,6 +457,7 @@ body {
   background-color: #143578;
   background-image: url("../images/bg.jpg");
   background-size: contain;
+  background-position: center;
   font-size: 14px;
   min-height: 100%;
   --tw-text-opacity: 1;
