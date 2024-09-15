@@ -457,8 +457,8 @@ html {
 body {
     background-color: #143578;
     background-image: url("../images/bg.jpg");
-    background-size: contain;
-    background-position: center;
+    background-size: 360px;
+    background-position: top center;
     font-size: 14px;
     min-height: 100%;
     --tw-text-opacity: 1;
@@ -640,8 +640,9 @@ input[type="number"] {
 .cover {
     background-color: #143578;
     background-image: url("../images/bg.jpg");
-    background-position: center;
     position: fixed;
+    background-size: 360px;
+    background-position: top center;
     top: 0px;
     left: 0px;
     z-index: 50;
@@ -651,7 +652,6 @@ input[type="number"] {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-size: contain;
 }
 
 .frame-judul {
